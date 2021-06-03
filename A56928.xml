@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The quacks academy; or The dunce's directory A new art to cross the old proverb, and make a man fool and physician both at a time. Discovering the several methods whereby so many ignorant pretenders obtain repute and practice. With allowance.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56928</idno><idno type="EEBO-CITATION">99833675</idno>
+  <idno type="VID">38153</idno>
+  <idno type="EEBO-PROQUEST">2240956051</idno>
+  
+            <idno type="STC">Wing Q4</idno>
+            <idno type="STC">ESTC R222512</idno>
+            <idno type="PROQUEST">99833675</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99833675e"/>
+            <note>(EEBO-TCP ; phase 2, no. A56928)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38153)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2176:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The quacks academy; or The dunce's directory A new art to cross the old proverb, and make a man fool and physician both at a time. Discovering the several methods whereby so many ignorant pretenders obtain repute and practice. With allowance.</title>
+               </titleStmt>
+               <extent>8, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for A.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXVIII. [1678]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Outer margins cropped.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Quacks and quackery --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38153:1"/>
+            <p>THE Quacks Academy; OR The Dunce's Directory.</p>
+            <p>A New Art to cross the Old Proverb, and make a Man FOOL and PHYSICIAN both at a time.</p>
+            <p>Discovering the several Methods whereby s<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> many Ignorant Pretenders obtain Repute and Practice.</p>
+            <q>
+               <l>— Cur Ludere nobis</l>
+               <l>Non Liceat Licuit cum Jugulare tibi. <bibl>
+                     <hi>Mart.</hi>
+                  </bibl>
+               </l>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>With Allowance.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>A B.</hi> MDCLXXVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:38153:2"/>
+            <pb n="3" facs="tcp:38153:2"/>
+            <head>THE Quacks Academy, OR THE DUNCE'S DIRECTORY.</head>
+            <p>BEfore we enter upon the Subject Matter of this Sheet, we must declare that we do except out of our Design, all those Learned and Worthy Persons, whose Expe<g ref="char:EOLhyphen"/>rience and Labour in the Art of <hi>Medicine,</hi> may a<g ref="char:EOLhyphen"/>ny way contribute to the common good of Mankind, intending only to reflect on those Illeterate Pretenders to Phy<g ref="char:EOLhyphen"/>sick, whose Practices are as well shameful as dangerous to the place they live in; of which later sort we are about to speak.</p>
+            <p>Having observ'd the prodigious <hi>Success</hi> of modern <hi>Quackery</hi> and that the Practice of it is lately become a <hi>last shift,</hi> more common and thriving too, than selling of <hi>Ale,</hi> or setting up<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>Coffee-House.</hi> And finding still abundance of <hi>indigent idle</hi> Peo<g ref="char:EOLhyphen"/>ple, that could never make their untoward <hi>Handicrafts</hi> fadg<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to purpose, who would be glad to exchange them for so gentee and <hi>advantageous</hi> an Imploy, had they but the secret <hi>Knack</hi>
+               <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> whereby other Bankrupts with small pains and less parts, hav<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in an instant raised themselves from Beggary, to competent E<g ref="char:EOLunhyphen"/>states. Out of our great respect to such hearty well-willers, t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> so secure and gainful a Science; we have thought fit to unfol<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the whole <hi>Mistery;</hi> as 'tis this day practiced with so muc<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Profit and Applause: Draw near then with attention, all yo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> decayed <hi>Ragamuffins</hi> of the Town; you by whose Dulness, n<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="4" facs="tcp:38153:3"/>Mechanick Mystery but scorns to be master'd, whom neither <hi>Sea</hi> nor <hi>Gibbet</hi> will accept; we'll put you in a way of Feeding your selves and the Worms too: <hi>Honest</hi> no doubt, because <hi>common</hi> and <hi>safe,</hi> for why, your miscariages shall never be heard for the <hi>Dinn</hi> of Knells you shall occasion, — But to deliver our Documents in order:</p>
+            <p>First, To pass for currant, you have no more to do but to call your selves Doctors; <hi>Pliny</hi> hath affirm'd it before: And though I neither expect nor desire you should understand <hi>Latin,</hi> yet because a Scrap may do you a kindness, one time or other to <hi>swagger</hi> with; I'll give it you in his own Language: <hi>Hac sola Artium, evenit quod cuilibet se Medicum dicenti facile cre<g ref="char:EOLhyphen"/>datur, Cum sit periculum in nullo Mendacio Majus.</hi> In this Art alone it comes to pass, That any one but professing himself <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Physician, is presently believed; though in no case the belief of a lie be more dangerous. I have Englisht this for the benefit of those that do nor understand Latin; and I have no quarrel at all against those that do.</p>
+            <p>However, In the Second place to support this Title; there are several things very convenient: of which some are External <hi>Accontrements,</hi> others Internal <hi>Qualifications.</hi>
+            </p>
+            <p>Your outward Requisites, are a decent <hi>Black Suit,</hi> and (if your Credit will stretch so far in <hi>Long-lane</hi>) a <hi>Plush Jacket;</hi> not a pin the worse though Thred-bare as a Taylors Cloak; it <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hows the more reverend Antiquity.</p>
+            <p>Secondly, Like <hi>Mercury,</hi> you must always carry a <hi>Caduceus</hi> or Conjuring Japan in your Hand, Capt with a Civet Box; with which you must walk with Spanish Gravity, as in deep Contemplation upon an Arbitrament between Life and Death.</p>
+            <p>Thirdly, A convenient Lodging, not forgetting a <hi>Hatch</hi> at <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he Door: A Chamber hung either with Dutch Pictures, or Looking-Glasses, <hi>bee-litter'd</hi> with Urinals, or empty Galli<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ots, and Vials filled with Tap-droppings, or Fair Water, co<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>our'd with <hi>Saunders:</hi> Any Sexton will furnish your Window
+<pb n="5" facs="tcp:38153:3"/>with a <hi>Skull,</hi> in hope of your Custom; over which hang up the <hi>Skeleton</hi> of a Monkey, to proclaim your Skill in <hi>Anatomy.</hi>
+            </p>
+            <p>Fourthly, Let your <hi>Table</hi> be never without some old musty <hi>Greek</hi> or <hi>Arabick</hi> Author, and the 4th Book of <hi>Cornelius Agrip<g ref="char:EOLhyphen"/>pa</hi>'s <hi>Occult Philosophy,</hi> wide open, to amuse Spectators; with half a dozen of <hi>Guilt Shillings,</hi> as so many Guinneys received that morning for <hi>Fees.</hi>
+            </p>
+            <p>Fifthly, Fail not to oblige neighbouring Ale-houses, to recommend you to <hi>Inquirers;</hi> and hold Correspondence with all the <hi>Nurses</hi> and <hi>Midwives</hi> near you, to applaud your Skill at Gossippings.</p>
+            <p>Now to your necessary Qualifications, They are in general Two, <hi>Viz. Loquacity</hi> or Talkativeness, and <hi>Impudence.</hi>
+            </p>
+            <p>As for the First, 'Tis a mighty <hi>setter-off</hi> amongst the Vul<g ref="char:EOLhyphen"/>gar: be sure therefore you learn to pronounce <hi>Oppilation</hi> and <hi>Obstruction</hi> of the Spleen, and <hi>Schirrhus</hi> of the Liver, with a full Mouth; at least speak hard words, though never so wretch<g ref="char:EOLhyphen"/>edly <hi>misapply'd,</hi> and obscure common ordinary things in Terms of Art (for all the use you are to make of such Terms, is the same Juglers do of <hi>Hictius Doctius</hi> and <hi>Presto;</hi> to amuse Peo<g ref="char:EOLhyphen"/>ples Brains whilst you Pick their Pockets) if you can but get so far as to call the Fit of an Ague, a <hi>Paroxysme,</hi> Fits of the Mother <hi>Hysterical</hi> Passions: Thunder out <hi>Sympathetical,</hi> and <hi>Authipetichl</hi> Cures: Prate of the <hi>Mechanisme of Nature;</hi> though you know no more on't than a Plow-man does of Clock<g ref="char:EOLhyphen"/>work: Tell um of appeasing the <hi>Irritated Archeical Microcos<g ref="char:EOLhyphen"/>mical Monarch;</hi> increasing the <hi>Radical</hi> Moisture; and reliev<g ref="char:EOLhyphen"/>ing all the Powers, <hi>Vital, Natural,</hi> and <hi>Animal:</hi> The admi<g ref="char:EOLhyphen"/>ring Patient shall certainly cry you up for a great Schollard; pro<g ref="char:EOLhyphen"/>vided always your Nonesense be <hi>fluent,</hi> and mixt with a dispa<g ref="char:EOLhyphen"/>ragement of the <hi>Colledge,</hi> Graduated Doctors, and Book-learned Physicians: against whom you must ever bring in your high and mighty word <hi>Experience.</hi>
+            </p>
+            <p>But since every Man is not endued with the gift of <hi>Tatling</hi>
+               <pb n="6" facs="tcp:38153:4"/>and that 'tis fit you should learn like a Dutch-man, to <hi>Sail</hi> with every Wind: If niggardly Nature, or more penurious Educa<g ref="char:EOLhyphen"/>tion, have not afforded you a Tongue <hi>well hung;</hi> make a Ver<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ue of necessity: Look <hi>Grave</hi> and Big, decline all Discourse, especially if Ingenious Men be by: Tell them <hi>Diseases</hi> are not <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o be frighted away with words; that you do not come to <hi>Talk</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ut to <hi>Cure, &amp;c.</hi> This will at once conceal your Ignorance <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rom the Judicious, and increase your esteem for a notable re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>erv'd <hi>paty</hi> Fellow with others: If any ask the cause of their Distempers, or reason of your Prescriptions, satisfie them both by producing a List-of your <hi>mighty Cures;</hi> wherein if one half be <hi>false</hi> and the other <hi>hired;</hi> there is no geeat danger: For he must be a strange inquisitive Infidel, that will not rather believe <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hem, than give himself the trouble of disproving them — Which brings me to the second property, <hi>Viz.</hi>
+            </p>
+            <p>A convenient Audacity, There is nothing more necessary, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>othing more advantagious. Make People believe that no Pitcht<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ield ever <hi>slew</hi> or <hi>wounded</hi> half so many as you have <hi>recover<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d:</hi> That you have made Death retreat, where Nature was <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ore fiercely beleaguer'd than ever <hi>Stetin</hi> was, and disap<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ointed him of more <hi>Bits</hi> than Civil or Foreign Wars have <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>urnisht him with these Forty years: That you have even <hi>Bec<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>on'd</hi> Souls back again, that have been some Leagues onwards their Journey from their Bodies: Boast the wonders you have <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>one at <hi>Leiden</hi> and <hi>Hamburgh,</hi> the <hi>Lazzaretto,</hi> at <hi>Venice,</hi> and the <hi>Maison de Dieu</hi> at <hi>Paris:</hi> That your <hi>Closets</hi> are <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>mmortality-Offices,</hi> and that you can lett <hi>Leases of Lives</hi> of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> larger Date than <hi>Popish Indulgences:</hi> Pretend to the Cure of <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ll Diseases,</hi> especially such as are <hi>Incurable;</hi> and to know which are most <hi>in Season,</hi> consult the Bills of Mortality; and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ext Week <hi>vary</hi> your Bill accordingly.</p>
+            <p>In particular, since the whole Art of Physick consist<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>iagnosticks, Prognosticks, and Therapeuticks; For the first Two you must either pretend to be <hi>Waterologers,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which
+<pb n="7" facs="tcp:38153:4"/>is more abstruse and modish) <hi>Ass-trologers, Piss-prophets,</hi> or <hi>Starr-Wizards;</hi> either way will do well enough, and to speak truth, are much of a <hi>Certainty:</hi> In <hi>both</hi> there is necessary a <hi>Previous pumping,</hi> by apt and wary <hi>Questions,</hi> and their <hi>An<g ref="char:EOLhyphen"/>swers</hi> handsomely turned into other words, will extreamly gratifie the <hi>Patient</hi> or <hi>Querent.</hi> If you practise by the <hi>Ʋri<g ref="char:EOLhyphen"/>nal,</hi> though 'tis as like to discover the Colour of a Sick-mans Cloaths as his Infirmities; yet a thousand to one but with dis<g ref="char:EOLhyphen"/>creet handling, you may <hi>shake it</hi> into the <hi>Scurvey,</hi> the <hi>Pox,</hi> or the <hi>Consumption:</hi> Nay you may venture to tell what <hi>Trade</hi> your Patient is of, by his Working-days Water, and if you see his Sundays-Water, what <hi>Religion</hi> he is of: But if you pro<g ref="char:EOLhyphen"/>ceed by the <hi>Scheme,</hi> there is nothing so probable as to say, He is <hi>Bewitcht,</hi> under an <hi>Ill-Tongue:</hi> That he has a <hi>Take</hi> upon him, or is <hi>Planet-struck,</hi> and the Lord of the <hi>Seventh</hi> shews you to be the only Doctor in the World that can help him: Onely here beware that you never pronounce a Common-Council-man <hi>with-child,</hi> or a Constable sick of the <hi>Mother;</hi> and in other Cases, if your Judgment chance not to hit the Nail on the head, 'tis but having recourse to necessary Pru<g ref="char:EOLhyphen"/>dence, called by the Superstitious, the Art <hi>of Lying,</hi> As to tell um their <hi>Stomack</hi> is faln out of the place, but you doubt not but to fetch it up again: That they have Straws in their Lungs, as big as Beams, and their <hi>Livers</hi> are wasted with <hi>Ve<g ref="char:EOLhyphen"/>nery</hi> and <hi>Drinking.</hi> Then as for <hi>Therapeuticks,</hi> if your Me<g ref="char:EOLhyphen"/>dicines be Galenical, though never so <hi>Common,</hi> disguise them with strange names; Call <hi>Sena</hi> a <hi>Specifick, Mithridate</hi> an <hi>E<g ref="char:EOLhyphen"/>lixir, Extractum Rudii</hi> an <hi>Arcanum,</hi> and add a <hi>Nostrum</hi> to <hi>Album Graecum.</hi> But if you would rather betake your self to Chymical Devices, and want Nonsense to cant their Ver<g ref="char:EOLhyphen"/>tues; there are Phamphlets enough abroad to furnish you. The Tincture of the <hi>Suns Beard;</hi> the Powder of the <hi>Moons-horns:</hi> or a Quintessence extracted from the Souls of the <hi>Heathen Gods;</hi> will go off rarely for an Universal Medicine; and bub<g ref="char:EOLhyphen"/>ble
+<pb n="8" facs="tcp:38153:5"/>the Simple out of their <hi>Money</hi> first, and their <hi>Lives</hi> after<g ref="char:EOLhyphen"/>wards.</p>
+            <p>But to deal ingenously, I will teach you a far more <hi>ready</hi> and curious way, both of Finding out and Curing all Diseases, than has yet been discovered; which is thus: Take two large Sheets of Paper, on the one write down (or get the Book-learn'd Scribe that writes your Bills, to do it for you) the Names of all ordinary <hi>Distempers;</hi> on the other all celebrated <hi>Medicines;</hi> whether Catharticks, Diureticks, Diaphoreticks, Emeticks. Then when any Patient comes or sends, and you have heard the story; <hi>retire</hi> a while, telling them a True Physician must first <hi>Study</hi> and then <hi>Prescribe:</hi> In the mean time, by your self, on the Roll of Infirmities, fling a <hi>Dye,</hi> and as many as the Chance as, so many Diseases, you may assure them the party has; but principally <hi>that</hi> whereon the Dye falls: Then do the same on the Paper of <hi>Remedies,</hi> and Prescrib or Administer <hi>that</hi> which the Dye lights on, to be taken so <hi>many times</hi> as there are Spots on the Chance. And if the Sick be Pain'd in the <hi>Head,</hi> you may easily discourse them into a perswasion that the Disease (or at least the <hi>Cause</hi>) is in their <hi>Hand</hi> or <hi>Toe:</hi> By which <hi>safe</hi> and ingenious course, you shall honestly refer it to <hi>Fortune;</hi> to dis<g ref="char:EOLhyphen"/>cover both the Disease and Medicine; whereas others through a <hi>conceited</hi> Knowledge, or unhappy <hi>Ignorance,</hi> render them<g ref="char:EOLhyphen"/>selves more than <hi>accessary</hi> to the Death of many.</p>
+            <p>There are several other Directions fit to acquaint you with, which we shall reserve for the <hi>second</hi> part of this most useful <hi>Directory.</hi> In the mean time (as your <hi>Predessors</hi> have done be<g ref="char:EOLhyphen"/>fore you) practice these and give thanks</p>
+            <closer>To <signed>your Old Friend Miso-Agyrtes.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="text">
+            <pb facs="tcp:38153:5"/>
+            <p>CVJVS SAL ERVDITIONIS DIGESTIONE DECENTI T<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> SAPIDVM PALATOQVE APTISSIMVM EVASIT VT ET AD INSTAR AVRI IGNE PROBATI ILLIBATVM PERSTITERIT IS MERITO E FECE POPVLI AD CVLMEN HONORIS EVEHITVR DOCTORISQVE TIARA DECORATVR IS VERO EST VIR JVVENIS NOBILISSIMVS ERVDITISSIMVS ACCVRATISSIMVS DN. JOH. HVLDRICVS HANHARDVS HELVETIO-VITODVRANVS ACCIPIENS E MANV VIRI AMPLISSIMI EXCELLENTISSIMI D. D. JACOBI ROTHII ANAT. ET BOTAN. PROFESS. MERITISSIMI MEDICORUM DECVRIONIS SPECTABILIS LAVRVM APOLLINEAM OB STVDIVM SINGVLARE ITINERA LITERARIA SVMME PROMERITAM SOLENNITER IN RAVRACORVM PARNASSO D. VII. JV LII ANN. MDCLXXXV. BENE PRECANTIBVS VIRTVTVM ET ERVDITIONIS AESTIMATORIBVS.</p>
+            <p>BASILEAE</p>
+            <p>TYPIS REGIIS.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
